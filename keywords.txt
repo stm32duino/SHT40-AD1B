@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For SHT40AD1B
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SHT40AD1BSensor	KEYWORD1
+SHT40AD1BStatusTypeDef KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+GetTemperature	KEYWORD2
+GetHumidity	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SHT40AD1B_STSTUS_OK	LITERAL1
+SHT40AD1B_STATUS_ERROR	LITERAL1
